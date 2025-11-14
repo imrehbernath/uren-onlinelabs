@@ -1,0 +1,5 @@
+{
+  "name": "OnlineLabs Harvest",
+  "description": "Een complete webapplicatie voor urenregistratie per project en het genereren van facturen, geïnspireerd op Harvest. Medewerkers kunnen eenvoudig hun tijd bijhouden en beheerders kunnen met één klik professionele facturen maken, eventueel met AI-gegenereerde samenvattingen.",
+  "requestFramePermissions": []
+}
